@@ -19,7 +19,6 @@ int[] numArr2 = {11, 22, 33};
 
         }
         return currentSum;
-
     }
 }
 /*
